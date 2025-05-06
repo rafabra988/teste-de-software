@@ -2,9 +2,9 @@
 #include "../src/preco.h"
 
 
-MU_TEST(test_check) {
-	mu_check(5 == 7);
-}
+//MU_TEST(test_check) {
+//	mu_check(5 == 7);
+//}
 //Teste de Particionamento de Equivalencia
 MU_TEST(test_equivalencia_1) {
     int resultado = calculapreco(30, 5);
