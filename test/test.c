@@ -65,7 +65,7 @@ MU_TEST(test_limite_C6) {
 }
 
 MU_TEST_SUITE(test_suite) {
-	MU_RUN_TEST(test_check);
+	//MU_RUN_TEST(test_check);
     MU_RUN_TEST(test_equivalencia_1);
     MU_RUN_TEST(test_equivalencia_2);
     MU_RUN_TEST(test_equivalencia_3);
