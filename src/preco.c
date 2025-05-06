@@ -1,6 +1,6 @@
 // filepath: d:\OneDrive - Universidade do Estado do Rio de Janeiro\teste de software aaaaaaaaaaaa\tramps p2\src\preco.c
 #include "preco.h"
-
+//teste1
 int calculapreco (int idade, int quantidade){
     int preco;
     if(idade <= 12 ){
